@@ -48,8 +48,3 @@
 
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayinalakoteswararao&theme=dark)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ayinalakoteswararao&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayinalakoteswararao&layout=compact&theme=dark)
-
