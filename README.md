@@ -1,4 +1,5 @@
-# 💫 About Me
+# 💫 About Me [![Portfolio](https://cdn-icons-png.flaticon.com/512/841/841364.png)](https://your-portfolio-link.com)
+
 
 🔭 Currently working on AI & Machine Learning projects, focusing on chatbots and recommendation systems using Python and Flask.  
 
