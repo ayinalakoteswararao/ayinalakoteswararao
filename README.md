@@ -54,26 +54,7 @@
 
 ---
 
-## 🚀 Projects
 
-### 🩺 MediTrainAI – AI-Powered Healthcare Chatbot
-- Built an AI chatbot using NLP and transformer-based models.
-- Integrated Flask REST APIs for real-time interaction.
-- ~85% response accuracy.
-
-### 🍽️ Campus Bites – Smart Campus Cafeteria
-- ML-based recommendation system.
-- Flask backend with dynamic filtering.
-- Interactive UI for food exploration.
-
-### 💧 Water Potability Prediction Web App
-- ML model predicts potability with 92% accuracy.
-- Feature engineering & model evaluation.
-- Deployed as a web application.
-
----
-
-## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayinalakoteswararao&theme=dark)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ayinalakoteswararao&theme=dark)
