@@ -19,7 +19,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayinala-koteswararao/)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayinalakoteswararao15@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=google-chrome&logoColor=white)]([https://your-portfolio-link.com](https://portfolio-psi-two-70.vercel.app/))
 
 
 ---
